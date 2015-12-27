@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[MetaCrow]]></title>
         <description><![CDATA[MetaCrow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metacrow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 09:52:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 27 Dec 2015 09:53:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metacrow/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Game Design Journal]]></title>
-            <description><![CDATA[<article><h1>Game Design Journal</h1><p>I'm starting a new book called Game Design Workshop by Tracy Fullerton. She highly recommends starting a game design journal. I prefer digital content, and I'm tired of arguing with Wordpress and Ghost, so The Grid is getting this content for now.</p></article>]]></description>
-            <link>undefinedgame-design-journal/index.html</link>
+            <description><![CDATA[<article><h1>Game Design Journal</h1><p>I'm starting a new book called Game Design Workshop by Tracy Fullerton. She highly recommends starting a game design journal. I prefer digital content, and I'm tired of arguing with Wordpress and Ghost, so The Grid is getting this content for now.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f93a14a-52be-468f-800b-563424567410.png"></article>]]></description>
+            <link>https://thegrid.ai/metacrow/game-design-journal/index.html</link>
             <guid isPermaLink="false">7f5a7f0e-71ab-4bc7-93e7-8e3d47d34e45</guid>
-            <pubDate>Sun, 27 Dec 2015 09:52:08 GMT</pubDate>
+            <pubDate>Sun, 27 Dec 2015 09:53:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
