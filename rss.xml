@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[MetaCrow]]></title>
         <description><![CDATA[MetaCrow]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/metacrow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 09:58:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 07:38:24 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/metacrow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Exercise 1.1: Become a Tester]]></title>
+            <description><![CDATA[<article><h1>Exercise 1.1: Become a Tester</h1><p>Take on the role of a tester. Go play a game and observe yourself as you play. Write down what you’re doing and feeling. Try to create one page of detailed notes on your behaviors and actions. Then repeat this experience while watching a friend play the same game. Compare the two sets of notes and analyze what you’ve learned from the process. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8dd8d1cf-99cd-4fdb-aeb8-474f8218c539.jpg"></article>]]></description>
+            <link>https://thegrid.ai/metacrow/exercise-11-become-a-tester/index.html</link>
+            <guid isPermaLink="false">6291bf2d-3f2e-456c-b46e-032b818b4ddf</guid>
+            <pubDate>Tue, 29 Dec 2015 07:38:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I'm starting a new book called Game Design Workshop by Tracy Fullerton. She highly recommends starting a game design journal. I prefer digital content, and I'm tired of arguing with Wordpress and Ghost, so The Grid is getting this content for now.</p>]]></description>
-            <link>undefined2baed1d1-8f43-46d6-a653-b468129bc2c9/index.html</link>
+            <link>https://thegrid.ai/metacrow/2baed1d1-8f43-46d6-a653-b468129bc2c9/index.html</link>
             <guid isPermaLink="false">2baed1d1-8f43-46d6-a653-b468129bc2c9</guid>
             <pubDate>Sun, 27 Dec 2015 09:58:17 GMT</pubDate>
         </item>
