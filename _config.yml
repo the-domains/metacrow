@@ -1,6 +1,6 @@
 name: MetaCrow
 favicon: null
-layout_spectrum: 0.5023
+layout_spectrum: 0.25821
 typography_spectrum: 0.25604
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#0000ff'
     - '#ff0000'
     - '#c8c8c8'
-  brandStrength: 0.5
+  brandStrength: 0.1875
   lightness: 0.5
   saturation: 0.4375
   rhythmicContrast: 0
